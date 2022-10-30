@@ -4,6 +4,6 @@
 
 Para rodar o jogo na sua maquina, por favor digite:
 
-'''
+```
 node.js install react
-'''
+```
